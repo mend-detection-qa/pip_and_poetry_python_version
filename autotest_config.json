@@ -42,7 +42,7 @@
                     "zipp-3.20.2-py3-none-any.whl",
                     "itsdangerous-2.2.0-py3-none-any.whl",
                     "markupsafe-2.1.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-                    "pytz-2025.2-py2.py3-none-any.whl",
+                    "pytz-2026.1.post1-py2.py3-none-any.whl'",
                     "sqlparse-0.5.5-py3-none-any.whl",
                     "charset_normalizer-3.4.4-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
                     "click-8.1.8-py3-none-any.whl",
